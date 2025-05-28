@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">citasfinalmedicas</string>
+    <string-array name="roles_array">
+        <item>PACIENTE</item>
+        <item>MEDICO</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+    <string name="nav_header_desc">Encabezado de navegación</string>
+
+    <string name="cd_role_selector">Selector de Rol de Usuario</string>
+
+</resources>
